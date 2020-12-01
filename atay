@@ -1,15 +1,5 @@
-"latestVersion": "No Availavle Update, 
-Download This Link To Update App 👇👇👇
-"url": "No Update Available", 
-
-"releaseNotes": [ 
-
-"- Fix minor bugs", 
-
-"- UI optimaization", 
-
-"- Import translations" 
-
-] 
-
-}
+{
+ "versionCode": "5.0.1",
+ "url": "link here",
+ "Message": "-ADDED OFFLINE UPDATER"
+ }
