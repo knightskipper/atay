@@ -1,5 +1,10 @@
 {
- "versionCode": "1.1.2",
- "url": "",
- "Message": "-DOWNLOAD APP UPDATE FIRST..UNINSTALL OLD APP BEFORE INSTALLING NEW ONE"
- }
+"latestVersion": "1.1.5",
+"url": "https://dropmb.com/files/6f27e3ad19be8fa68f2c806d11e0eeee.apk",
+ "releaseNotes": [
+ " What's New?",
+ "- Added anti torrent (Torrent Application only)",
+ "- Added simple anti remod.",
+ "- Fixed some bugs."
+  ]
+}
